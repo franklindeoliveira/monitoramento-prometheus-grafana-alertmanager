@@ -1,0 +1,7 @@
+app/targe
+app/.idea
+app/.mvn
+app/.project
+app/.classpath
+prometheus/prometheus_data/*
+grafana/*
