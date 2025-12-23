@@ -173,6 +173,10 @@ Os dados do Grafana são persistidos no volume:
 ./grafana
 ```
 
+### Dashboad do projeto
+
+![Exemplo de alerta no Slack](./painel-monitoramento.png)
+
 ---
 
 ## 🔐 Redes Docker
